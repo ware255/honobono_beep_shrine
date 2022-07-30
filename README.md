@@ -1,0 +1,2 @@
+# honobono_beep_shrine
+ほのぼの神社をBeep音でながすというもの。もとは、WinLinux1028
