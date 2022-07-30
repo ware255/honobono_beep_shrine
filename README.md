@@ -3,3 +3,8 @@
 
 ## OS
 Windows
+
+## Compile
+```
+> g++ src/main.c -o honobono -Wall
+```
